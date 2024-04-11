@@ -1,0 +1,18 @@
+{
+  "name": "paam",
+  "version": "0.1.0",
+  "description": "A chat app for CUSD",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CBit Interactive",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "cusd",
+    "chat"
+  ],
+  "dependencies": {
+    "pocketbase": "^0.21.1"
+  }
+}
